@@ -1,4 +1,4 @@
-# Text-vectorization
+# Text vectorization
 # corpus.txt 
-# Text-vectorization
+# Text vectorization
 # corpus.txt 
